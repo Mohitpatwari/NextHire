@@ -6,15 +6,23 @@ With AI-powered features coming soon, NextHire is designed to simplify job searc
 🌐 Live Demo: https://nexthire-1.onrender.com
 
 🌟 Features
+
 ✅ Job Search & Apply – Students can browse and apply for jobs easily.
+
 ✅ Recruiter Dashboard – Post, manage, and track job listings.
+
 ✅ MongoDB Backend – Scalable database for job listings & user data.
+
 ✅ React Frontend – Fast & responsive UI with modern design.
+
 ✅ Authentication – Secure login system with JWT.
+
 ✅ File Uploads with Cloudinary – Store and manage resumes, job-related files, and user profile images.
+
 ✅ AI Integration (Coming Soon) – Smart job recommendations and resume analysis.
 
 🛠️ Tech Stack
+
 Frontend: React, Next.js, Tailwind CSS
 
 Backend: Node.js, Express, MongoDB
@@ -37,10 +45,15 @@ npm run dev
 
 
 🎯 Roadmap
+
  Job search & apply functionality
+ 
  Recruiter dashboard
+ 
  File storage with Cloudinary
+ 
  AI-powered job recommendations
+ 
  Resume analysis
 
  
