@@ -1,5 +1,7 @@
 🚀 NextHire – Job Portal for Students & Recruiters
-NextHire is a modern job portal that helps students find jobs and enables recruiters to post opportunities. With AI-powered features coming soon, NextHire is designed to simplify job searching and hiring.
+
+NextHire is a modern job portal that helps students find jobs and enables recruiters to post opportunities. 
+With AI-powered features coming soon, NextHire is designed to simplify job searching and hiring.
 
 🌐 Live Demo: https://nexthire-1.onrender.com
 
@@ -14,10 +16,16 @@ NextHire is a modern job portal that helps students find jobs and enables recrui
 
 🛠️ Tech Stack
 Frontend: React, Next.js, Tailwind CSS
+
 Backend: Node.js, Express, MongoDB
+
 Authentication: JWT
+
 File Storage: Cloudinary
+
 Deployment: Render
+
+
 🚀 Getting Started
 bash
 Copy
@@ -26,12 +34,16 @@ git clone https://github.com/your-username/NextHire.git
 cd NextHire
 npm install
 npm run dev
+
+
 🎯 Roadmap
  Job search & apply functionality
  Recruiter dashboard
  File storage with Cloudinary
  AI-powered job recommendations
  Resume analysis
+
+ 
 🤝 Contributing
 Contributions are welcome! Feel free to open an issue or a pull request.
 
