@@ -1,7 +1,7 @@
 🚀 NextHire – Job Portal for Students & Recruiters
 NextHire is a modern job portal that helps students find jobs and enables recruiters to post opportunities. With AI-powered features coming soon, NextHire is designed to simplify job searching and hiring.
 
-🌐 Live Demo: NextHire
+🌐 Live Demo: https://nexthire-1.onrender.com
 
 🌟 Features
 ✅ Job Search & Apply – Students can browse and apply for jobs easily.
